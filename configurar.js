@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //coloque o número do dono
-global.dono = '22898133388' 
+global.dono = '224660002740' 
 
 //informações da figurinha 
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜:\𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛:\+22898133388:'
